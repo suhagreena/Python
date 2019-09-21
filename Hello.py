@@ -1,1 +1,4 @@
 print('Hello World')
+
+message = 'My First Python Code for Git'
+print(message)
